@@ -29,7 +29,7 @@ Este espacio funciona como un portafolio en evolución donde reúno lo que estoy
 ### 3. LinkedIn y contacto
 Mantengo mis perfiles alineados para facilitar el seguimiento de mis proyectos y mi experiencia académica:
 
-* **LinkedIn:** [linkedin.com/in/tu-usuario-linkedin](https://www.linkedin.com/in/david-ureña-315807451?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* **LinkedIn:** [linkedin.com/in/David-Ureña-linkedin](https://www.linkedin.com/in/david-ureña-315807451?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 * **CV en PDF:** [Ver o descargar CV](./CV_David_Urena.pdf)
 * **Correo institucional:** david.urena@utp.ac.pa
 
