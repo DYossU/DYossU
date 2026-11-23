@@ -24,6 +24,7 @@ Este espacio funciona como un portafolio en evolución donde reúno lo que estoy
 #### Proyectos y laboratorios destacados
 * **Perfil profesional y marca digital (Sistemas Colaborativos):** Configuración de identidad en GitHub, repositorios de apoyo, documentación y despliegue en GitHub Pages.
 * **LAN corporativa segmentada (Redes Informáticas I):** Topología en Cisco Packet Tracer con VLANs, subinterfaces, reglas ACL y traducción NAT.
+* * **Sistema de Bibloteca (Programacion I)*:** Proyecto en Java utilizando Clases, métodos y tipos de estructuras.
 * **Gestor de firmas de malware *(en desarrollo)*:** Proyecto en Java utilizando Árboles Binarios de Búsqueda (ABB) para Estructuras de Datos.
 
 ### 3. LinkedIn y contacto
