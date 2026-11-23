@@ -23,9 +23,8 @@ Este espacio funciona como un portafolio en evolución donde reúno lo que estoy
 
 #### Proyectos y laboratorios destacados
 * **Perfil profesional y marca digital (Sistemas Colaborativos):** Configuración de identidad en GitHub, repositorios de apoyo, documentación y despliegue en GitHub Pages.
-* **LAN corporativa segmentada (Redes Informáticas I):** Topología en Cisco Packet Tracer con VLANs, subinterfaces, reglas ACL y traducción NAT.
-* **Sistema de Bibloteca (Programacion I):** Proyecto en Java utilizando Clases, métodos y tipos de estructuras.
-* **Gestor de firmas de malware *(en desarrollo)*:** Proyecto en Java utilizando Árboles Binarios de Búsqueda (ABB) para Estructuras de Datos.
+* **Sistema de biblioteca (Programación):** [Ver repositorio en GitHub](https://github.com/DYossU/utp-prog1-sistema-biblioteca) — Aplicación en Java estructurada en módulos para gestionar libros, usuarios, bibliotecarios y préstamos.
+* **Sistema de gestión de firmas de malware con ABB (Estructuras de Datos):** [Ver repositorio en GitHub](https://github.com/DYossU/utp-estructuras-datos-abb) — Aplicación en Java con interfaz gráfica y persistencia en archivos para administrar firmas mediante un Árbol Binario de Búsqueda.
 
 ### 3. LinkedIn y contacto
 Mantengo mis perfiles alineados para facilitar el seguimiento de mis proyectos y mi experiencia académica:
