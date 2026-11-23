@@ -29,9 +29,13 @@ Este espacio funciona como un portafolio en evolución donde reúno lo que estoy
 ### 3. LinkedIn y contacto
 Mantengo mis perfiles alineados para facilitar el seguimiento de mis proyectos y mi experiencia académica:
 
-* **LinkedIn:** [linkedin.com/in/David-Ureña-linkedin](https://www.linkedin.com/in/david-ureña-315807451?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-* **CV en PDF:** [Ver o descargar CV](./CV_David_Urena.pdf)
-* **Correo institucional:** david.urena@utp.ac.pa
+- **LinkedIn:** [David Ureña](https://www.linkedin.com/in/david-ureña-315807451?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- **GitHub:** [github.com/DYossU](https://github.com/DYossU)
+- **Portafolio / GitHub Pages:** [dyossu.github.io/DYossU](https://dyossu.github.io/DYossU/)
+- **GitHub Pages - Estructuras de Datos (ABB):** [dyossu.github.io/utp-estructuras-datos-abb](https://dyossu.github.io/utp-estructuras-datos-abb/)
+- **GitHub Pages - Sistema de Biblioteca:** [dyossu.github.io/utp-prog1-sistema-biblioteca](https://dyossu.github.io/utp-prog1-sistema-biblioteca/)
+- **CV en PDF:** [Ver o descargar CV](./CV_David_Urena.pdf)
+- **Correo institucional:** david.urena1@utp.ac.pa
 
 <p align="center">
 <i>"La seguridad en la red empieza con una identidad digital transparente, responsable y colaborativa."</i>
