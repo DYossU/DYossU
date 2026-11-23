@@ -34,7 +34,7 @@ Mantengo mis perfiles alineados para facilitar el seguimiento de mis proyectos y
 - **Portafolio / GitHub Pages:** [dyossu.github.io/DYossU](https://dyossu.github.io/DYossU/)
 - **GitHub Pages - Estructuras de Datos (ABB):** [dyossu.github.io/utp-estructuras-datos-abb](https://dyossu.github.io/utp-estructuras-datos-abb/)
 - **GitHub Pages - Sistema de Biblioteca:** [dyossu.github.io/utp-prog1-sistema-biblioteca](https://dyossu.github.io/utp-prog1-sistema-biblioteca/)
-- **CV en PDF:** [Ver o descargar CV](./CV_David_Urena.pdf)
+- **CV en PDF:** [Ver o descargar CV](./CV_DavidUreña.pdf)
 - **Correo institucional:** david.urena1@utp.ac.pa
 
 <p align="center">
